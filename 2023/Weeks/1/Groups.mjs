@@ -1,10 +1,8 @@
-export const Groups = {
-    Groups: ["thonly", "panhiathao", "chengsieuly"],
-    Partners: {
-        thonly: "panhiathao";
+export const Groups = [
+    {
+        Members: ["thonly", "panhiathao", "chengsieuly"],
+        Partners: [
+            ["thonly", "panhiathao", "chengsieuly"]
+        ]
     }
-};
-
-export const Partners = {
-
-};
+];

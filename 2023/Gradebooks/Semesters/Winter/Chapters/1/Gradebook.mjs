@@ -1,4 +1,4 @@
-export const Students = {
+export const Gradebook = {
     panhiathao: {
         Discussion: {
             thonly: {
