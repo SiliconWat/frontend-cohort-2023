@@ -1,1 +1,1 @@
-TBA
+TODO: instructions to join

@@ -1,7 +1,7 @@
 export const Students = {
     panhiathao: {
-        term: "Semester",
-        season: "Summer",
+        term: "semester",
+        season: "summer",
         status: "current" // current, pass, fail
     }
 }
