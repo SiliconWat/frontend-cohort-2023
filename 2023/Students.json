@@ -1,7 +1,12 @@
 {
-    "panhiathao": {
+    "thonly": {
         "term": "semester",
         "season": "summer",
         "status": "current"
+    },
+    "panhiathao": {
+        "term": "semester",
+        "season": "summer",
+        "status": "pass"
     }
 }

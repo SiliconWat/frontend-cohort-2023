@@ -1,7 +1,15 @@
 {
-    "panhiathao": {
+    "thonly": {
         "discussion": {
-            "thonly": {
+            "panhiathao": {
+                "grade": "pass"
+            },
+            "chengsieuly": {
+                "grade": "fail"
+            }
+        },
+        "summary": {
+            "panhiathao": {
                 "grade": "pass"
             },
             "chengsieuly": {
@@ -9,22 +17,12 @@
             }
         },
         "challenge": {
-            "thonly": {
+            "panhiathao": {
                 "grade": "pass"
             }
         },
         "suggestion": {
-            "thonly": {
-                "grade": "pass"
-            }
-        },
-        "summary": {
-            "thonly": {
-                "grade": "pass"
-            }
-        },
-        "interview": {
-            "thonly": {
+            "panhiathao": {
                 "grade": "pass"
             }
         }
