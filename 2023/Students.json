@@ -1,12 +1,20 @@
 {
     "thonly": {
+        "wallet": null,
         "term": "semester",
         "season": "summer",
-        "status": "current"
+        "status": "current",
+        "score": null,
+        "project": null,
+        "rank": null
     },
     "panhiathao": {
-        "term": "semester",
-        "season": "summer",
-        "status": "pass"
+        "wallet": null,
+        "term": "quarter",
+        "season": "spring",
+        "status": "pass",
+        "score": null,
+        "project": null,
+        "rank": null
     }
 }
