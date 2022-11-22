@@ -86,16 +86,16 @@
         {
             "active": true,
             "from": 1,
-            "to": 5
+            "to": 3
         },
         {
             "active": false,
-            "from": 6,
-            "to": 18
+            "from": 4,
+            "to": 6
         },
         {
             "active": false,
-            "from": 19,
+            "from": 7,
             "to": 20
         },
         {
@@ -120,8 +120,8 @@
         },
         {
             "active": false,
-            "from": 19,
-            "to": 20
+            "from": null,
+            "to": null
         },
         {
             "active": false,
