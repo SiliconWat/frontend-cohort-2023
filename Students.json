@@ -1,22 +1,42 @@
 {
     "thonly": {
         "wallet": null,
-        "year": 2023,
-        "term": "semester",
-        "season": "summer",
-        "status": "current",
-        "score": null,
-        "project": null,
-        "rank": null
+        "cohorts": [
+            {
+                "type": "tutor",
+                "year": 2023,
+                "term": "semester",
+                "season": "summer",
+                "status": "current",
+                "score": null,
+                "project": null,
+                "rank": null
+            },
+            {
+                "type": "student",
+                "year": 2023,
+                "term": "semester",
+                "season": "winter",
+                "status": "fail",
+                "score": null,
+                "project": null,
+                "rank": null
+            }
+        ]
     },
     "panhiathao": {
         "wallet": null,
-        "year": 2023,
-        "term": "quarter",
-        "season": "spring",
-        "status": "pass",
-        "score": null,
-        "project": null,
-        "rank": null
+        "cohorts": [
+            {
+                "type": "student",
+                "year": 2023,
+                "term": "quarter",
+                "season": "spring",
+                "status": "pass",
+                "score": null,
+                "project": null,
+                "rank": null
+            }
+        ]
     }
 }
