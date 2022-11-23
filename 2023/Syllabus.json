@@ -84,62 +84,50 @@
     },
     "weeks": [
         {
-            "active": true,
             "from": 1,
             "to": 3
         },
         {
-            "active": false,
             "from": 4,
             "to": 6
         },
         {
-            "active": false,
             "from": 7,
             "to": 20
         },
         {
-            "active": false,
             "from": null,
             "to": null
         },
         {
-            "active": false,
             "from": null,
             "to": null
         },
         {
-            "active": false,
             "from": null,
             "to": null
         },
         {
-            "active": false,
             "from": null,
             "to": null
         },
         {
-            "active": false,
             "from": null,
             "to": null
         },
         {
-            "active": false,
             "from": null,
             "to": null
         },
         {
-            "active": false,
             "from": null,
             "to": null
         },
         {
-            "active": false,
             "from": null,
             "to": null
         },
         {
-            "active": false,
             "from": null,
             "to": null
         }
