@@ -26,5 +26,33 @@
                 "grade": "pass"
             }
         }
+    },
+    "panhiathao": {
+        "discussion": {
+            "thonly": {
+                "grade": "pass"
+            },
+            "chengsieuly": {
+                "grade": "fail"
+            }
+        },
+        "summary": {
+            "thonly": {
+                "grade": "pass"
+            },
+            "chengsieuly": {
+                "grade": "fail"
+            }
+        },
+        "challenge": {
+            "thonly": {
+                "grade": "pass"
+            }
+        },
+        "suggestion": {
+            "thonly": {
+                "grade": "pass"
+            }
+        }
     }
 }
