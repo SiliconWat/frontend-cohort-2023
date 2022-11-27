@@ -33,7 +33,7 @@
                 "grade": "pass"
             },
             "chengsieuly": {
-                "grade": "fail"
+                "grade": "pass"
             }
         },
         "summary": {
@@ -74,7 +74,7 @@
         },
         "challenge": {
             "panhiathao": {
-                "grade": "pass"
+                "grade": "fail"
             }
         },
         "suggestion": {
