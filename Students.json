@@ -7,10 +7,9 @@
                 "year": 2022,
                 "system": "semester",
                 "season": "summer",
-                "status": "current",
-                "score": null,
-                "project": null,
-                "rank": null
+                "status": "pass",
+                "score": 93,
+                "project": null
             },
             {
                 "type": "student",
@@ -18,9 +17,8 @@
                 "system": "semester",
                 "season": "winter",
                 "status": "pass",
-                "score": null,
-                "project": null,
-                "rank": null
+                "score": 89,
+                "project": null
             }
         ]
     },
@@ -29,23 +27,21 @@
         "cohorts": [
             {
                 "type": "student",
-                "year": 2022,
+                "year": 2023,
                 "system": "semester",
                 "season": "summer",
                 "status": "current",
                 "score": null,
-                "project": null,
-                "rank": null
+                "project": null
             },
             {
                 "type": "student",
                 "year": 2022,
-                "system": "quarter",
-                "season": "spring",
+                "system": "semester",
+                "season": "summer",
                 "status": "pass",
-                "score": null,
-                "project": null,
-                "rank": null
+                "score": 100,
+                "project": null
             }
         ]
     },
@@ -58,9 +54,8 @@
                 "system": "semester",
                 "season": "summer",
                 "status": "fail",
-                "score": null,
-                "project": null,
-                "rank": null
+                "score": 60,
+                "project": null
             }
         ]
     }
