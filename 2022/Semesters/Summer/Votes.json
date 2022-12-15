@@ -1,9 +1,12 @@
 {
     "code": {
-        "thonly": ["panhiathao"]
+        "thonly": ["panhiathao", "chengsieuly"],
+        "panhiathao": ["thonly"]
     },
     "idea": {
-        "thonly": ["panhiathao"]
+        "thonly": ["panhiathao"],
+        "chengsieuly": ["thonly"],
+        "panhiathao": ["chengsieuly"]
     },
     "startup": {
         "thonly": ["panhiathao"]
