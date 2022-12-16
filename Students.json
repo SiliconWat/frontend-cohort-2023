@@ -50,6 +50,15 @@
         "cohorts": [
             {
                 "type": "student",
+                "year": 2023,
+                "system": "semester",
+                "season": "summer",
+                "status": "current",
+                "score": null,
+                "project": null
+            },
+            {
+                "type": "student",
                 "year": 2022,
                 "system": "semester",
                 "season": "summer",
