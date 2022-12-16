@@ -18,7 +18,7 @@
                 "season": "winter",
                 "status": "pass",
                 "score": 89,
-                "project": null
+                "project": "https://github.com/thonly/meditation.thonly.org"
             }
         ]
     },
@@ -26,7 +26,7 @@
         "wallet": null,
         "cohorts": [
             {
-                "type": "student",
+                "type": "tutor",
                 "year": 2023,
                 "system": "semester",
                 "season": "summer",
@@ -41,7 +41,7 @@
                 "season": "summer",
                 "status": "pass",
                 "score": 100,
-                "project": null
+                "project": "https://github.com/thonly/meditation.thonly.org"
             }
         ]
     },
